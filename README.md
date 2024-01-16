@@ -1,5 +1,8 @@
-## Next.js App Router Course - Starter
+## Neko Habits
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+To connect to a database, update the `.env` with your secrets. 
+You can run `npm run seed` to seed the database with dummy data.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+How to setup postgreSQL on the cloud: 
+https://nextjs.org/learn/dashboard-app/setting-up-your-database
+
